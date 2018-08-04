@@ -21,7 +21,7 @@ namespace Vic.SuperS.UI.ConsoleApp
             string input = "";
             bool canExit = false;
 
-            //string removeCmd = "";
+            string removeCmd = "";
 
             do
             {
