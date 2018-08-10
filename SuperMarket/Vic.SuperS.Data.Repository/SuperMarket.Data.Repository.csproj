@@ -49,9 +49,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vic.SuperS.Data.Model\Vic.SuperS.Data.Model.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Data.Model\SuperMarket.Data.Model.csproj">
       <Project>{785412cd-1b9f-4ea9-86c7-3d2e660387ee}</Project>
-      <Name>Vic.SuperS.Data.Model</Name>
+      <Name>SuperMarket.Data.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

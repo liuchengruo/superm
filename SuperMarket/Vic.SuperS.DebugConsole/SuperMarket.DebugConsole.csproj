@@ -49,17 +49,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vic.SuperS.Data.Model\Vic.SuperS.Data.Model.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Data.Model\SuperMarket.Data.Model.csproj">
       <Project>{785412cd-1b9f-4ea9-86c7-3d2e660387ee}</Project>
-      <Name>Vic.SuperS.Data.Model</Name>
+      <Name>SuperMarket.Data.Model</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vic.SuperS.Data.Repository\Vic.SuperS.Data.Repository.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Data.Repository\SuperMarket.Data.Repository.csproj">
       <Project>{24c800a6-db8d-447c-8997-eb1a51f75e1a}</Project>
-      <Name>Vic.SuperS.Data.Repository</Name>
+      <Name>SuperMarket.Data.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vic.SuperS.Service\Vic.SuperS.Service.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Service\SuperMarket.Service.csproj">
       <Project>{37d860d9-97d2-43fa-ad98-8a49b4d64468}</Project>
-      <Name>Vic.SuperS.Service</Name>
+      <Name>SuperMarket.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

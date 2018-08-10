@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.DebugConsole", "Vic.SuperS.DebugConsole\Vic.SuperS.DebugConsole.csproj", "{DCE5912B-F79F-4561-AFCB-189FB2CEFCA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.DebugConsole", "Vic.SuperS.DebugConsole\SuperMarket.DebugConsole.csproj", "{DCE5912B-F79F-4561-AFCB-189FB2CEFCA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.Data.Model", "Vic.SuperS.Data.Model\Vic.SuperS.Data.Model.csproj", "{785412CD-1B9F-4EA9-86C7-3D2E660387EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.Data.Model", "Vic.SuperS.Data.Model\SuperMarket.Data.Model.csproj", "{785412CD-1B9F-4EA9-86C7-3D2E660387EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.Data.Repository", "Vic.SuperS.Data.Repository\Vic.SuperS.Data.Repository.csproj", "{24C800A6-DB8D-447C-8997-EB1A51F75E1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.Data.Repository", "Vic.SuperS.Data.Repository\SuperMarket.Data.Repository.csproj", "{24C800A6-DB8D-447C-8997-EB1A51F75E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.Service", "Vic.SuperS.Service\Vic.SuperS.Service.csproj", "{37D860D9-97D2-43FA-AD98-8A49B4D64468}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.Service", "Vic.SuperS.Service\SuperMarket.Service.csproj", "{37D860D9-97D2-43FA-AD98-8A49B4D64468}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.UI.ConsoleApp", "Vic.SuperS.UI.ConsoleApp\Vic.SuperS.UI.ConsoleApp.csproj", "{F08A7CD1-A888-4B7F-8C78-5E0E99F6D952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.UI.ConsoleApp", "Vic.SuperS.UI.ConsoleApp\SuperMarket.UI.ConsoleApp.csproj", "{F08A7CD1-A888-4B7F-8C78-5E0E99F6D952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vic.SuperS.UnitTest", "Vic.SuperS.UnitTest\Vic.SuperS.UnitTest.csproj", "{81DF3B38-65BF-4CC4-BA46-1D50EA56366A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.UnitTest", "Vic.SuperS.UnitTest\SuperMarket.UnitTest.csproj", "{81DF3B38-65BF-4CC4-BA46-1D50EA56366A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

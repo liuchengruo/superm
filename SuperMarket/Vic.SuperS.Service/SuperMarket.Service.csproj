@@ -44,13 +44,13 @@
     <Compile Include="ShoppingService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vic.SuperS.Data.Model\Vic.SuperS.Data.Model.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Data.Model\SuperMarket.Data.Model.csproj">
       <Project>{785412cd-1b9f-4ea9-86c7-3d2e660387ee}</Project>
-      <Name>Vic.SuperS.Data.Model</Name>
+      <Name>SuperMarket.Data.Model</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vic.SuperS.Data.Repository\Vic.SuperS.Data.Repository.csproj">
+    <ProjectReference Include="..\Vic.SuperS.Data.Repository\SuperMarket.Data.Repository.csproj">
       <Project>{24c800a6-db8d-447c-8997-eb1a51f75e1a}</Project>
-      <Name>Vic.SuperS.Data.Repository</Name>
+      <Name>SuperMarket.Data.Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
