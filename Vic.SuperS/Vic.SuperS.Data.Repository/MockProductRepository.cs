@@ -11,12 +11,12 @@ namespace Vic.SuperS.Data.Repository
     {
         private readonly List<Product> _products = new List<Product>
         {
-            new Product{ Id=1, Name="apple", Price=1.2m, Descript="this is an apple, not apple computer" },
-            new Product{ Id=2, Name="cd", Price=1.2m, Descript="" },
-            new Product{ Id=3, Name="milk", Price=1.2m, Descript="" },
-            new Product{ Id=4, Name="book", Price=1.2m, Descript="" },
-            new Product{ Id=5, Name="laptop", Price=1.2m, Descript="" },
-            new Product{ Id=6, Name="pill", Price=1.2m, Descript="" },
+            new Product{ Id=1, Name="apple", Price=1.2m, Descript="This is an apple." },
+            new Product{ Id=2, Name="CD", Price=1.2m, Descript="This is a CD." },
+            new Product{ Id=3, Name="milk", Price=1.2m, Descript="This is a bottle of milk." },
+            new Product{ Id=4, Name="book", Price=1.2m, Descript="This is a book." },
+            new Product{ Id=5, Name="laptop", Price=1.2m, Descript="This is a laptop" },
+            new Product{ Id=6, Name="pill", Price=1.2m, Descript="This is a pill" },
         };
 
         public Product Add(Product item)
